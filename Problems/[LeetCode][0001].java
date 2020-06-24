@@ -13,3 +13,5 @@ class Solution {
         return res;
     }
 }
+
+原本是两个for循环，合成为一个
